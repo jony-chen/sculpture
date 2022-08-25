@@ -1,0 +1,240 @@
+{
+    "en": {
+        "nav": {
+            "navs": [
+                {
+                    "text": "Home",
+                    "active": "home",
+                    "link": ""
+                },
+                {
+                    "text": "Design Development",
+                    "active": "design",
+                    "link": ""
+                },
+                {
+                    "text": "Customized",
+                    "active": "customized",
+                    "link": ""
+                },
+                {
+                    "text": "About",
+                    "active": "about",
+                    "link": ""
+                },
+                {
+                    "text": "Contact",
+                    "active": "contact",
+                    "link": ""
+                }
+            ],
+            "language": {
+                "currentLanguage": "Language: ",
+                "en": {
+                    "language": "English",
+                    "abbrv": "EN"
+                },
+                "ch": {
+                    "language": "中文",
+                    "abbrv": "中"
+                }
+            }
+        },
+        "banner": {
+            "title": "3D-Block",
+            "info": "3D-Block是丰富的模型库、人仔功能、3d说明书、导入图片参考、傻瓜式易上手的平台"
+        },
+        "interaction": {
+            "info": "Sean Kenney uses LEGO toys to create award-winning exhibits, portraiture, children's books, and commissioned artwork.",
+            "interactions": [
+                {
+                    "title": "title",
+                    "image": "icon1.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon2.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon3.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon4.png",
+                    "info": "info"
+                }
+            ]
+        },
+        "modelbase": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "VISIT",
+            "btn2": "ABOUT THE EXHIBITS"
+        },
+        "robot": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "COMMISSION"
+        },
+        "manual": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "COMMISSION"
+        },
+        "design": {
+            "title": "产品设计开发",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces."
+        },
+        "customized": {
+            "title": "定制礼品案例",
+            "btn": "定制礼品",
+            "select_title": "定制类型",
+            "left_title": "像素画",
+            "left_info": "像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画",
+            "right_title": "积木sculpture",
+            "right_info": "积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces.",
+            "case_title": "定制案例"
+        },
+        "about": {
+            "title": "关于我们",
+            "company": "XX积木",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces."
+        },
+        "contact": {
+            "title": "联系我们",
+            "phone": "联系电话：13123456789",
+            "qq": "QQ：13123456789",
+            "wechat": "微信：13123456789",
+            "twitter": "Twitter：13123456789",
+            "facebook": "Facebook：13123456789",
+            "tiktok": "抖音号：13123456789",
+            "tiktokcode": "抖音二维码",
+            "wechatcode": "客服微信",
+            "wechatofficialcode": "微信公众号"            
+        }
+    },
+    "ch": {
+        "nav": {
+            "navs": [
+                {
+                    "text": "首页",
+                    "active": "home",
+                    "link": ""
+                },
+                {
+                    "text": "设计开发",
+                    "active": "design",
+                    "link": ""
+                },
+                {
+                    "text": "定制礼品",
+                    "active": "customized",
+                    "link": ""
+                },
+                {
+                    "text": "关于我们",
+                    "active": "about",
+                    "link": ""
+                },
+                {
+                    "text": "联系我们",
+                    "active": "contact",
+                    "link": ""
+                }
+            ],
+            "language": {
+                "currentLanguage": "语言： ",
+                "en": {
+                    "language": "English",
+                    "abbrv": "EN"
+                },
+                "ch": {
+                    "language": "中文",
+                    "abbrv": "中"
+                }
+            }
+        },
+        "banner": {
+            "title": "3D-Block",
+            "info": "3D-Block是丰富的模型库、人仔功能、3d说明书、导入图片参考、傻瓜式易上手的平台"
+        },
+        "interaction": {
+            "info": "Sean Kenney uses LEGO toys to create award-winning exhibits, portraiture, children's books, and commissioned artwork.",
+            "interactions": [
+                {
+                    "title": "title",
+                    "image": "icon1.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon2.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon3.png",
+                    "info": "info"
+                },
+                {
+                    "title": "title",
+                    "image": "icon4.png",
+                    "info": "info"
+                }
+            ]
+        },
+        "modelbase": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "VISIT",
+            "btn2": "ABOUT THE EXHIBITS"
+        },
+        "robot": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "COMMISSION"
+        },
+        "manual": {
+            "title": "On exhibition",
+            "content": "Comprised of hundreds of beautiful, thought-provoking sculptures built with millions of LEGO bricks, Sean's exhibits — produced by Imagine Exhibitions — are touring botanical gardens, zoos, arboretums, science centers, and non-traditional venues around the world.",
+            "btn": "COMMISSION"
+        },
+        "design": {
+            "title": "产品设计开发",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces."
+        },
+        "customized": {
+            "title": "定制礼品案例",
+            "btn": "定制礼品",
+            "select_title": "定制类型",
+            "left_title": "像素画",
+            "left_info": "像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画像素画",
+            "right_title": "积木sculpture",
+            "right_info": "积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces.",
+            "case_title": "定制案例"
+        },
+        "about": {
+            "title": "关于我们",
+            "company": "XX积木",
+            "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces."
+        },
+        "contact": {
+            "title": "联系我们",
+            "phone": "联系电话：13123456789",
+            "qq": "QQ：13123456789",
+            "wechat": "微信：13123456789",
+            "twitter": "Twitter：13123456789",
+            "facebook": "Facebook：13123456789",
+            "tiktok": "抖音号：13123456789",
+            "tiktokcode": "抖音二维码",
+            "wechatcode": "客服微信",
+            "wechatofficialcode": "微信公众号"          
+        }
+    }
+}
