@@ -15,12 +15,12 @@
         </div>
         <h4 class="select_title">{{customized.select_title}}</h4>
         <div class="select_box d-flex align-items-center justify-content-space-between">
-          <router-link to="/" class="left_box">
+          <router-link to="/pixelpainting" class="left_box">
             <h4>{{customized.left_title}}</h4>
             <img src="../../static/images/img1.jpg" />
             <p>{{customized.left_info}}</p>
           </router-link>
-          <router-link to="/" class="right_box">
+          <router-link to="/sculpture"  class="right_box">
             <h4>{{customized.right_title}}</h4>
             <img src="../../static/images/img1.jpg" />
             <p>{{customized.right_info}}</p>
@@ -259,7 +259,11 @@ export default {
         width: 18%;
         height: auto;
         margin: 0 1%;
-        border: 1px solid #f5f5f5;
+        border: 1px solid #f0f0f0;
+        cursor: pointer;
+        &:hover{
+          box-shadow: 0 0 10px rgb(100, 100, 100);
+        }
         img{
           width: 100%;
           height: auto;

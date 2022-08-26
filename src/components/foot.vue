@@ -56,6 +56,7 @@ export default {
   height: auto;
   margin: 0 auto;
   position: fixed;
+  z-index: 9999;
   bottom: 0;
   .footer{
     background-color: #fff;

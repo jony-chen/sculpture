@@ -6,6 +6,9 @@ const design = () => import('../page/design');
 const customized = () => import('../page/customized');
 const about = () => import('../page/about');
 const contact = () => import('../page/contact');
+const pixelpainting = () => import('../page/pixelpainting');
+const sculpture = () => import('../page/sculpture');
+const casepage = () => import('../page/case');
 // //admin
 // const admin = () => import('../components/admin');
 
@@ -43,7 +46,21 @@ let router = new Router({
       name: 'contact',
       component: contact
     },
-
+    {
+      path: '/pixelpainting',
+      name: 'pixelpainting',
+      component: pixelpainting
+    },
+    {
+      path: '/sculpture',
+      name: 'sculpture',
+      component: sculpture
+    },
+    {
+      path: '/case',
+      name: 'case',
+      component: casepage
+    }
     // //后台
     // {
     //   path: '/admin',

@@ -98,7 +98,37 @@
             "right_title": "积木sculpture",
             "right_info": "积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture",
             "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces.",
-            "case_title": "定制案例"
+            "case_title": "定制案例",
+            "pixelpainting_title": "像素画案例",
+            "sculpture_title": "积木sculpture案例",
+            "pixelpainting_case": {
+                "1": "定制案例1",
+                "2": "定制案例2",
+                "3": "定制案例3",
+                "4": "定制案例4",
+                "5": "定制案例5",
+                "6": "定制案例6",
+                "7": "定制案例7",
+                "8": "定制案例8",
+                "9": "定制案例9",
+                "10": "定制案例10",
+                "11": "定制案例11",
+                "12": "定制案例12"
+            },
+            "sculpture_case": {
+                "1": "定制案例1",
+                "2": "定制案例2",
+                "3": "定制案例3",
+                "4": "定制案例4",
+                "5": "定制案例5",
+                "6": "定制案例6",
+                "7": "定制案例7",
+                "8": "定制案例8",
+                "9": "定制案例9",
+                "10": "定制案例10",
+                "11": "定制案例11",
+                "12": "定制案例12"
+            }
         },
         "about": {
             "title": "关于我们",
@@ -217,7 +247,37 @@
             "right_title": "积木sculpture",
             "right_info": "积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture积木sculpture",
             "info": "Sean Kenney's award-winning exhibitions have been touring the world for over a decade and feature hundreds of beautiful, thought-provoking sculptures created with over 3 million LEGO pieces.",
-            "case_title": "定制案例"
+            "case_title": "定制案例",
+            "pixelpainting_title": "像素画案例",
+            "sculpture_title": "积木sculpture案例",
+            "pixelpainting_case": {
+                "1": "定制案例1",
+                "2": "定制案例2",
+                "3": "定制案例3",
+                "4": "定制案例4",
+                "5": "定制案例5",
+                "6": "定制案例6",
+                "7": "定制案例7",
+                "8": "定制案例8",
+                "9": "定制案例9",
+                "10": "定制案例10",
+                "11": "定制案例11",
+                "12": "定制案例12"
+            },
+            "sculpture_case": {
+                "1": "定制案例1",
+                "2": "定制案例2",
+                "3": "定制案例3",
+                "4": "定制案例4",
+                "5": "定制案例5",
+                "6": "定制案例6",
+                "7": "定制案例7",
+                "8": "定制案例8",
+                "9": "定制案例9",
+                "10": "定制案例10",
+                "11": "定制案例11",
+                "12": "定制案例12"
+            }
         },
         "about": {
             "title": "关于我们",
